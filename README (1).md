@@ -1,4 +1,4 @@
-# Research Companion – GenAI Capstone Project
+
 # Research Companion – GenAI Capstone Project
 
 An AI-powered **research assistant** that helps you go from a high-level query to:
@@ -134,21 +134,12 @@ GenAI_capstone_project-main/
     │   └── utils/
     │       └── references.py
     └── research-companion-*.tar.gz  # Archived versions (not needed for normal use)
-
-An AI-powered research assistant that retrieves arXiv papers, parses PDFs, summarizes insights, compares methods, and suggests research gaps.
-
-## Features
-- arXiv retrieval
-- PDF parsing and sectioning
-- Summarization (heuristic or LLM)
-- Cross-paper comparison
-- Research gap detection
-- FastAPI backend + UI
-
-## Run
 ```
+
+# 3. RUN
+
 uvicorn src.api.fastapi_app:app --reload
-```
+
 
 ## License
 Educational use only.
