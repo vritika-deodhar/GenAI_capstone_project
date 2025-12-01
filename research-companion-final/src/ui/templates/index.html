@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Research Companion</title>
+  <link rel="stylesheet" href="/static/styles.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Research Companion</h1>
+    <form id="qryForm">
+      <input id="query" placeholder="Enter query" />
+      <input id="max" type="number" value="2" min="1" max="10"/>
+      <button type="submit">Run</button>
+    </form>
+    <div id="results"></div>
+  </div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>

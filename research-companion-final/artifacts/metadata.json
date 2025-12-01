@@ -1,0 +1,89 @@
+{
+  "papers": {
+    "http://arxiv.org/abs/2306.05212v1": {
+      "local_path": "./artifacts/d8a91839d2.pdf",
+      "title": "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit"
+    },
+    "http://arxiv.org/abs/2310.06825v1": {
+      "local_path": "./artifacts/a0517b26be.pdf",
+      "title": "Mistral 7B"
+    },
+    "http://arxiv.org/abs/1806.07966v2": {
+      "local_path": "./artifacts/6acc21ea33.pdf",
+      "title": "An Application of Computable Distributions to the Semantics of Probabilistic Programs"
+    },
+    "http://arxiv.org/abs/2207.07483v1": {
+      "local_path": "./artifacts/e0cc71fe60.pdf",
+      "title": "A Systematic Review and Replicability Study of BERT4Rec for Sequential Recommendation"
+    },
+    "http://arxiv.org/abs/2309.07602v1": {
+      "local_path": "./artifacts/b8bfce1d1e.pdf",
+      "title": "Turning Dross Into Gold Loss: is BERT4Rec really better than SASRec?"
+    },
+    "http://arxiv.org/abs/1904.06690v2": {
+      "local_path": "./artifacts/77c562df48.pdf",
+      "title": "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer",
+      "pdf_url": "https://arxiv.org/pdf/1904.06690v2"
+    },
+    "http://arxiv.org/abs/2301.00979v2": {
+      "local_path": "./artifacts/dad8db1e10.pdf",
+      "title": "Improving Sequential Recommendation Models with an Enhanced Loss Function",
+      "pdf_url": "https://arxiv.org/pdf/2301.00979v2"
+    },
+    "http://arxiv.org/abs/2308.07192v1": {
+      "local_path": "./artifacts/2a4edacad2.pdf",
+      "title": "gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling",
+      "pdf_url": "https://arxiv.org/pdf/2308.07192v1"
+    },
+    "http://arxiv.org/abs/2105.02723v1": {
+      "local_path": "./artifacts/fea2cc5ae0.pdf",
+      "title": "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet",
+      "pdf_url": "https://arxiv.org/pdf/2105.02723v1"
+    },
+    "http://arxiv.org/abs/1806.11202v1": {
+      "local_path": "./artifacts/ffb4935966.pdf",
+      "title": "Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization",
+      "pdf_url": "https://arxiv.org/pdf/1806.11202v1"
+    },
+    "http://arxiv.org/abs/2103.05236v2": {
+      "local_path": "./artifacts/b350713843.pdf",
+      "title": "GAN Vocoder: Multi-Resolution Discriminator Is All You Need",
+      "pdf_url": "https://arxiv.org/pdf/2103.05236v2"
+    },
+    "http://arxiv.org/abs/2112.05993v1": {
+      "local_path": "./artifacts/72f972c2cc.pdf",
+      "title": "Object Counting: You Only Need to Look at One",
+      "pdf_url": "https://arxiv.org/pdf/2112.05993v1"
+    },
+    "http://arxiv.org/abs/2307.13365v3": {
+      "local_path": "./artifacts/874eeac4a0.pdf",
+      "title": "Pay Attention to What You Need",
+      "pdf_url": "https://arxiv.org/pdf/2307.13365v3"
+    },
+    "http://arxiv.org/abs/2104.04692v3": {
+      "local_path": "./artifacts/05e4daf83a.pdf",
+      "title": "Not All Attention Is All You Need",
+      "pdf_url": "https://arxiv.org/pdf/2104.04692v3"
+    },
+    "http://arxiv.org/abs/1706.03762v7": {
+      "local_path": "./artifacts/093340c4a5.pdf",
+      "title": "Attention Is All You Need",
+      "pdf_url": "https://arxiv.org/pdf/1706.03762v7"
+    },
+    "http://arxiv.org/abs/2501.09166v1": {
+      "local_path": "./artifacts/8b1ce5a396.pdf",
+      "title": "Attention is All You Need Until You Need Retention",
+      "pdf_url": "https://arxiv.org/pdf/2501.09166v1"
+    },
+    "http://arxiv.org/abs/2308.07661v2": {
+      "local_path": "./artifacts/18a9b59575.pdf",
+      "title": "Attention Is Not All You Need Anymore",
+      "pdf_url": "https://arxiv.org/pdf/2308.07661v2"
+    },
+    "http://arxiv.org/abs/1905.13497v1": {
+      "local_path": "./artifacts/a5fe9f4d84.pdf",
+      "title": "Attention Is (not) All You Need for Commonsense Reasoning",
+      "pdf_url": "https://arxiv.org/pdf/1905.13497v1"
+    }
+  }
+}
